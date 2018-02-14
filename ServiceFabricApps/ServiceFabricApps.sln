@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "HelloGo", "HelloGo\HelloGo.sfproj", "{6313E653-53A1-4EFB-A0B7-970D5E5DC1F1}"
+EndProject
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "HelloAspnet", "HelloAspnet\HelloAspnet.sfproj", "{46EB940D-A9CD-4810-9ED8-3D33F3A037E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6313E653-53A1-4EFB-A0B7-970D5E5DC1F1}.Debug|x64.ActiveCfg = Debug|x64
+		{6313E653-53A1-4EFB-A0B7-970D5E5DC1F1}.Debug|x64.Build.0 = Debug|x64
+		{6313E653-53A1-4EFB-A0B7-970D5E5DC1F1}.Debug|x64.Deploy.0 = Debug|x64
+		{6313E653-53A1-4EFB-A0B7-970D5E5DC1F1}.Release|x64.ActiveCfg = Release|x64
+		{6313E653-53A1-4EFB-A0B7-970D5E5DC1F1}.Release|x64.Build.0 = Release|x64
+		{6313E653-53A1-4EFB-A0B7-970D5E5DC1F1}.Release|x64.Deploy.0 = Release|x64
+		{46EB940D-A9CD-4810-9ED8-3D33F3A037E0}.Debug|x64.ActiveCfg = Debug|x64
+		{46EB940D-A9CD-4810-9ED8-3D33F3A037E0}.Debug|x64.Build.0 = Debug|x64
+		{46EB940D-A9CD-4810-9ED8-3D33F3A037E0}.Debug|x64.Deploy.0 = Debug|x64
+		{46EB940D-A9CD-4810-9ED8-3D33F3A037E0}.Release|x64.ActiveCfg = Release|x64
+		{46EB940D-A9CD-4810-9ED8-3D33F3A037E0}.Release|x64.Build.0 = Release|x64
+		{46EB940D-A9CD-4810-9ED8-3D33F3A037E0}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2D3435B-DB57-4AE3-864B-2E6BAD3E121B}
+	EndGlobalSection
+EndGlobal

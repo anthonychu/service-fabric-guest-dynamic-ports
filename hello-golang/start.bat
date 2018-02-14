@@ -1,0 +1,1 @@
+.\hello-golang.exe -port=%Fabric_Endpoint_HelloGoSvcTypeEndpoint%
